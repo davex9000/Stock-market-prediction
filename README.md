@@ -17,3 +17,7 @@ Model checklist:
 -LSTM
 -ESN
 -ARIMA
+
+
+Special Sectors to be considered:
+-Biotech and pharamaseuticals (patents and funding)
