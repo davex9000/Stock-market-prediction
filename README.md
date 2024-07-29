@@ -21,3 +21,9 @@ Model checklist:
 
 Special Sectors to be considered:
 -Biotech and pharamaseuticals (patents and funding)
+
+
+
+Ideas from RL:
+- Let the agent figure out the rules (DQN)
+- Multi-armed bandit
