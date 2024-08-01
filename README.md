@@ -27,3 +27,15 @@ Special Sectors to be considered:
 Ideas from RL:
 - Let the agent figure out the rules (DQN)
 - Multi-armed bandit
+
+
+Agents strategy 1:
+- Getting Float, Demand, Supply, Volatity and Volume
+- Correcting the threshold
+- Checking the news stream
+- Pass the series of tests:
+    - News time
+    - Is the symbol is knows?
+    - Float
+    - News headline (Sentiment analysis, number of positive words, how positive is it?)
+    - Volume (is it incremental?)
