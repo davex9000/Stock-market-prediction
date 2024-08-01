@@ -35,7 +35,7 @@ Agents strategy 1:
 - Checking the news stream
 - Pass the series of tests:
     - News time
-    - Is the symbol is knows?
+    - Is the symbol knows?
     - Float
     - News headline (Sentiment analysis, number of positive words, how positive is it?)
     - Volume (is it incremental?)
