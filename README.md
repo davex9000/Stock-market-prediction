@@ -39,3 +39,8 @@ Agents strategy 1:
     - Float
     - News headline (Sentiment analysis, number of positive words, how positive is it?)
     - Volume (is it incremental?)
+ 
+Agents starety 2:
+- Check earning reports
+- Probability of being positive or negative
+- Price prediction
