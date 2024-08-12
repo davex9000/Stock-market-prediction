@@ -40,7 +40,15 @@ Agents strategy 1:
     - News headline (Sentiment analysis, number of positive words, how positive is it?)
     - Volume (is it incremental?)
  
-Agents starety 2:
+Agents startegy 2:
 - Check earning reports
 - Probability of being positive or negative
 - Price prediction
+
+Agents strategy 3:
+- Check the previous max gain in the stocks
+- Find out the positive/negative/investments on these stocks.
+- Why it got boosted?
+    - Did it reported positive earnings?
+    - Did it get an investment from a big company?
+- Should I trade this? 
