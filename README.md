@@ -51,4 +51,5 @@ Agents strategy 3:
 - Why it got boosted?
     - Did it reported positive earnings?
     - Did it get an investment from a big company?
+    - Do they have a new product?
 - Should I trade this? 
