@@ -52,4 +52,9 @@ Agents strategy 3:
     - Did it reported positive earnings?
     - Did it get an investment from a big company?
     - Do they have a new product?
-- Should I trade this? 
+- Should I trade this?
+
+Agents Strategy 4:
+- Check the pre-market earning reports of positive earning rate companies
+- keep an eye on them before half an hour of US opening (for volatility)
+- If there are enough moementum in the stock, buy on a dip just before the US opening 
