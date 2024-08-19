@@ -57,4 +57,4 @@ Agents strategy 3:
 Agents Strategy 4:
 - Check the pre-market earning reports of positive earning rate companies
 - keep an eye on them before half an hour of US opening (for volatility)
-- If there are enough moementum in the stock, buy on a dip just before the US opening 
+- If there are enough moementum in the stock, buy on a dip just before the US opening (BTW this includes high risk)
