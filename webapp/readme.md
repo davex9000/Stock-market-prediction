@@ -1,3 +1,3 @@
 - add the dynamic data parser for daily stock
 - create catagory for daily, weekly reports
--visulalize on webapp
+- visulalize on webapp
