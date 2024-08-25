@@ -6,7 +6,7 @@ from earning_reports_today import earning_reports_today
 
 symbol = earning_reports_today()
 
-# Sample data (similar to what you shared)
+# Sample data 
 data = {
     "fiscalDateEnding": ["2023-09-30", "2023-12-31", "2024-03-31", "2024-06-30"],
     "reportedEPS": [1.46, 2.18, 1.53, 1.4],
